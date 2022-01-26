@@ -1,1 +1,1 @@
-# bluetooth-setup-on-pi
+# Bluetooth setup for Raspberry pi
