@@ -62,3 +62,10 @@ Press CTRL-C for hangup
 ## Use the following to for documentation
 
 [Bluetooth programming documentation ](https://people.csail.mit.edu/albert/bluez-intro/x196.html)
+
+## Installing the PyBluez on pi
+```bash
+sudo apt-get install bluetooth libbluetooth-dev
+sudo pip install pybluez
+```
+
