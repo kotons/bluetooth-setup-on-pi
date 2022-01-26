@@ -54,3 +54,11 @@ Press CTRL-C for hangup
 
 ## Reference link for above setup
 [Raspberry pi Bluetooth serial setup](https://scribles.net/setting-up-bluetooth-serial-port-profile-on-raspberry-pi/)
+
+
+# Bluetooth programming in Pi using python and
+
+
+## Use the following to for documentation
+
+[Bluetooth programming documentation ](https://people.csail.mit.edu/albert/bluez-intro/x196.html)
